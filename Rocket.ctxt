@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rocket\ here.\r\n\ \r\n\ @author\ (Sairaj)\ \r\n\ @version\ (rocket\ v1.0\ or\ 24th\ 12\ 2020)\r\n
+comment1.params=speed
+comment1.target=Rocket(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Rocket\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ wrapAround()
+comment5.params=
+comment5.target=void\ rotate()
+comment6.params=
+comment6.target=void\ fire()
+comment7.params=m
+comment7.target=void\ addMissile(Missile)
+comment8.params=
+comment8.target=void\ hitByAsteroid()
+numComments=9
